@@ -1,0 +1,1 @@
+http://datos.cedeus.cl:80/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Aeod2012_utm19s&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature
