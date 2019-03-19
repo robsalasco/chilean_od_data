@@ -2,7 +2,7 @@
 
 This data has been retrieved from the MTT's EOD Survey 2012 (http://www.sectra.gob.cl/biblioteca/detalle1.asp?mfn=3253).
 
-## How to access 
+## How I got access 
 
 ```
 library(RJDBC)
